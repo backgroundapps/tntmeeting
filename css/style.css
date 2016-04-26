@@ -273,6 +273,11 @@ body {
 #fh5co-header #fh5co-logo a span {
   color: #EB1F35;
 }
+
+span {
+	color: #F7A0A9;
+}
+
 #fh5co-header nav {
   position: relative;
 }
@@ -342,6 +347,7 @@ body {
   bottom: 0;
   opacity: .54;
   z-index: 9;
+  background-color: #FFFDFE;
 }
 #fh5co-hero .fh5co-intro {
   display: table;
